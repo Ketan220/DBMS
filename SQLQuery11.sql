@@ -1,0 +1,1 @@
+select username,emailid,gender from users
